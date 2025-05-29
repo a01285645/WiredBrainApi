@@ -1,6 +1,6 @@
 name: Wired Brain Pipeline
 on:
-  pusk:
+  push:
     branches: ["main"]
   workflow_dispatch:
 
