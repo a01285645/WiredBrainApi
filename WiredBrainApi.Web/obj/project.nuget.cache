@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3YrzgOP8d61eTEY0C0Pf3GWKlpsaEhN3HyivHw/Cq7VkkqOzKbFVOubJSpSf9n7vr0XwD5shwFKPt3x13gQaXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorge\\Documents\\GitHub\\WiredBrainApi\\WiredBrainApi.Web\\WiredBrainApi.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
